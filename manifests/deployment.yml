@@ -1,0 +1,30 @@
+apiVersion : apps/v1
+kind: Deployment
+metadata:
+  name: ganasafiportaweb 
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: ganasafiportaweb
+  template:
+    metadata:
+      labels:
+        app: ganasafiportaweb 
+    spec:
+      containers:
+        - name: ganasafiportaweb 
+          image: ganasafi.azurecr.io/ganasafiportaweb
+          ports:
+          - containerPort: 3000
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: ganasafiportaweb
+spec:
+  type: ClusterIP
+  ports:
+    - port: 3000
+  selector:
+    app: ganasafiportaweb

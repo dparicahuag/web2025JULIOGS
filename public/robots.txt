@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.ganasafi.com.bo
+
+# Sitemaps
+Sitemap: https://www.ganasafi.com.bo/sitemap.xml
