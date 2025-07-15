@@ -1,22 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url><loc>https://www.ganasafi.com.bo</loc><lastmod>2025-04-01T15:17:34.041Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.ganasafi.com.bo/Consejo-Seguridad</loc><lastmod>2025-04-01T15:17:34.041Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.ganasafi.com.bo/EducacionFinanciera</loc><lastmod>2025-04-01T15:17:34.041Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.ganasafi.com.bo/FondosInversionAbiertos</loc><lastmod>2025-04-01T15:17:34.041Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.ganasafi.com.bo/contacto</loc><lastmod>2025-04-01T15:17:34.041Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.ganasafi.com.bo/faq</loc><lastmod>2025-04-01T15:17:34.041Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.ganasafi.com.bo/login</loc><lastmod>2025-04-01T15:17:34.041Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.ganasafi.com.bo/navigation</loc><lastmod>2025-04-01T15:17:34.041Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.ganasafi.com.bo/panel</loc><lastmod>2025-04-01T15:17:34.041Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.ganasafi.com.bo/panel/layout/container</loc><lastmod>2025-04-01T15:17:34.041Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.ganasafi.com.bo/panel/layout/navbar</loc><lastmod>2025-04-01T15:17:34.041Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.ganasafi.com.bo/panel/layout/sidebar</loc><lastmod>2025-04-01T15:17:34.041Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.ganasafi.com.bo/panel/products</loc><lastmod>2025-04-01T15:17:34.041Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.ganasafi.com.bo/panel/sliders</loc><lastmod>2025-04-01T15:17:34.041Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.ganasafi.com.bo/panel/users</loc><lastmod>2025-04-01T15:17:34.041Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.ganasafi.com.bo/productos</loc><lastmod>2025-04-01T15:17:34.041Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.ganasafi.com.bo/quienes-somos</loc><lastmod>2025-04-01T15:17:34.041Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.ganasafi.com.bo/serve.xml</loc><lastmod>2025-04-01T15:17:34.041Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.ganasafi.com.bo/simulador</loc><lastmod>2025-04-01T15:17:34.041Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.ganasafi.com.bo</loc><lastmod>2025-06-13T04:33:06.004Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.ganasafi.com.bo/Consejo-Seguridad</loc><lastmod>2025-06-13T04:33:06.004Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.ganasafi.com.bo/EducacionFinanciera</loc><lastmod>2025-06-13T04:33:06.004Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.ganasafi.com.bo/FondosInversionAbiertos</loc><lastmod>2025-06-13T04:33:06.004Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.ganasafi.com.bo/contacto</loc><lastmod>2025-06-13T04:33:06.004Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.ganasafi.com.bo/faq</loc><lastmod>2025-06-13T04:33:06.004Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.ganasafi.com.bo/login</loc><lastmod>2025-06-13T04:33:06.004Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.ganasafi.com.bo/navigation</loc><lastmod>2025-06-13T04:33:06.004Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.ganasafi.com.bo/panel</loc><lastmod>2025-06-13T04:33:06.004Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.ganasafi.com.bo/productos</loc><lastmod>2025-06-13T04:33:06.004Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.ganasafi.com.bo/quienes-somos</loc><lastmod>2025-06-13T04:33:06.004Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.ganasafi.com.bo/serve.xml</loc><lastmod>2025-06-13T04:33:06.004Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.ganasafi.com.bo/simulador</loc><lastmod>2025-06-13T04:33:06.004Z</lastmod><changefreq>weekly</changefreq><priority>0.7</priority></url>
 </urlset>

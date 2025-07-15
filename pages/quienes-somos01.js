@@ -202,26 +202,6 @@ export default function QuienesSomos() {
                       </Link>
                     </div>
                   </div>
-                <div className="col-md-3 col-sm-6 col-xs-12">
-                  <div className="support-services_2 wow">
-                    <h4 className="text-green ta-center">2024</h4>
-
-                    <a className="support-images" href="#" style={{ display: 'flex', justifyContent: 'center' }}>
-                      <Img s="Memoria2024.png" a="Gana Rendimiento" w="218px" />
-                    </a>
-
-                    <Link href="/productos/gana-inversiones">
-                      <a
-                        className="ab-btn left-ab-btn_2 btn-service"
-                        rel="noreferrer"
-                        target="_blank"
-                        href="\docs\Memorias_GANASAFI_2024.pdf"
-                      >
-                        Descargar pdf
-                      </a>
-                    </Link>
-                  </div>
-                </div>
 
 
                 </div>
@@ -238,5 +218,3 @@ export default function QuienesSomos() {
     </Container>
   );
 }
-
-
